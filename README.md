@@ -204,11 +204,10 @@ Netflix-App-Full-Analysis-Dashboard
 
 ---
 
-## 🤝 Connect with Me
-
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Website]
+##🤝 Connect with Me 
+🔗 GitHub: https://github.com/abhishekkumar62000 
+🔗 LinkedIn: https://www.linkedin.com/in/abhishek-yadav-70a69829a/ 
+🔗 Portfolio: https://www.datascienceportfol.io/abhiydv23096 
 
 💡 **Feel free to fork, contribute, or reach out for collaboration. Let’s dive deep into Netflix data and create amazing insights together!**
 
